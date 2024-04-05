@@ -1,5 +1,5 @@
 A small copy of the website design 
-https://space-tourism-tsx-scss.netlify.app/technology 
+https://space-tourism-tsx-scss.netlify.app/
 by https://github.com/Krasnoshlik
 
 ![4](https://github.com/Poitreqm/Space-Tourism/assets/23151017/54a328cc-41b8-4330-bad8-893ba94cc35a)
